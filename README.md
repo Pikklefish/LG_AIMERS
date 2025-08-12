@@ -1,7 +1,12 @@
 # LG_AIMERS
 
 
-adding average sale per quater feature
+쿼터만 추가
+0을 제외하고 학습
+
+0.6976010939
+
+아무리해도 0.62는 안나옴...
 
 
 이상한점
@@ -9,4 +14,8 @@ adding average sale per quater feature
 
 0은 평가산식에서 제외됨. 그냥 0인거는 제외하고 학습시키는게 나을지도...?
 train기준 54034/102676이 0
+
+
+
+
 
