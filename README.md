@@ -7,7 +7,7 @@
 0.6976010939
 
 아무리해도 0.62는 안나옴...
-
+RMSE도 안낮아짐
 
 이상한점
 <img width="988" height="476" alt="image" src="https://github.com/user-attachments/assets/037a15c5-ca67-433d-a6c4-c056278c1558" />
